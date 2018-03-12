@@ -1,0 +1,9 @@
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\bin\Debug\TTNhomWF.exe.config
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\bin\Debug\TTNhomWF.exe
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\bin\Debug\TTNhomWF.pdb
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.csprojResolveAssemblyReference.cache
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.KhoHang.resources
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.Properties.Resources.resources
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.csproj.GenerateResource.Cache
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.exe
+C:\Users\pham chien\Desktop\TTNhom\TTNhomWF\TTNhomWF\obj\Debug\TTNhomWF.pdb
