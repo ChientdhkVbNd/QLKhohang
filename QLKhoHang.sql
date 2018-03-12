@@ -338,3 +338,12 @@ END
 go
 execute TimKiem @makho='mk008'
 select * from tbl_KhoHang where Makho = 'mk001'
+go
+
+CREATE PROC TimKim(@makh varchar(10) )
+AS
+BEGIN
+	SELECT* FROM tbl_KhachHang  WHERE Makhachhang like @makh
+END
+go
+execute TK @makh='kh001'
